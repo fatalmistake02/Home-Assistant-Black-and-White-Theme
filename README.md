@@ -1,1 +1,1 @@
-# Home-Assistant-Theme
+# Home Assistant Black and white theme
