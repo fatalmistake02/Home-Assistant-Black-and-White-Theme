@@ -4,39 +4,33 @@ black_and_white:
   accent-color: "#FFFFFF" # White
   dark-primary-color: "#000000"
   light-primary-color: "#FFFFFF"
-
   # Background & Card Colors
   background-color: "#000000"
   primary-background-color: "#000000"
   secondary-background-color: "#1A1A1A"
   card-background-color: "#121212"
-
   # Text Colors
   primary-text-color: "#FFFFFF"
   secondary-text-color: "#B0B0B0"
   text-primary-color: "#FFFFFF"
   disabled-text-color: "#777777"
-
   # Sidebar & App Header
   sidebar-background-color: "#000000"
   app-header-background-color: "#000000"
   app-header-text-color: "#FFFFFF"
-
   # Icons & Buttons
   paper-item-icon-color: "#FFFFFF"
   paper-item-icon-active-color: "#CCCCCC"
   paper-item-icon-disabled-color: "#777777"
-
   # Switches & Sliders
   switch-checked-button-color: "#FFFFFF"
   switch-checked-track-color: "#555555"
   switch-unchecked-button-color: "#777777"
   switch-unchecked-track-color: "#333333"
-
+  # Scrollbar
+  scrollbar-thumb-color: "#555555"
   # Table & Borders
   table-row-background-color: "#000000"
   table-row-alternative-background-color: "#1A1A1A"
   divider-color: "#444444"
-
-  # Scrollbar
-  scrollbar-thumb-color: "#555555"
+  
