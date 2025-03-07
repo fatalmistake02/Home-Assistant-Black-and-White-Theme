@@ -1,0 +1,7 @@
+{
+  "name": "Home Assistant Black and white",
+  "content_in_root": false,
+  "filename": "themes",
+  "domains": ["theme"],
+  "country": "worldwide"
+}
