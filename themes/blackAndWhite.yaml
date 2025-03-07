@@ -8,7 +8,7 @@ black_and_white:
   background-color: "#000000"
   primary-background-color: "#000000"
   secondary-background-color: "#1A1A1A"
-  card-background-color: "#121212"
+  card-background-color: "#000000"
   # Text Colors
   primary-text-color: "#FFFFFF"
   secondary-text-color: "#B0B0B0"
